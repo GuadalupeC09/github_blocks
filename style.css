@@ -1,0 +1,45 @@
+.container{
+    width:950px;
+    background-color:rgb(28, 167, 135);
+    margin:0px auto;
+
+
+}
+.tittle{
+    color:hotpink;
+    display: flex;
+    justify-content: center;
+    
+}
+
+img{
+    width:200px;
+    height: 200px;
+}
+
+.row{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    
+}
+.blue-box{
+    background-color: skyblue;
+    margin-bottom: 10px;
+}
+
+.pink-box{
+    background-color:palevioletred;
+    margin:5px 0px 10px 0px 
+}
+
+.grey-box{
+    background-color: rgb(203, 191, 62);
+}
+
+h2{
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+}
